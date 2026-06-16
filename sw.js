@@ -1,4 +1,4 @@
-const CACHE = 'hypomnema-v1';
+const CACHE = 'hypomnema-v2';
 const ASSETS = [
   './',
   './index.html',
